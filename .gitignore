@@ -1,0 +1,8 @@
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+node_modules/
